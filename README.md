@@ -1,0 +1,1 @@
+A Password Generator is a security-focused web tool that creates strong, random passwords based on user-defined criteria. This tool helps users protect their accounts and sensitive data by avoiding weak, easy-to-guess passwords
